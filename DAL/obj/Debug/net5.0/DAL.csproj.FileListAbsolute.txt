@@ -1,0 +1,12 @@
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\bin\Debug\net5.0\DAL.deps.json
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\bin\Debug\net5.0\DAL.dll
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\bin\Debug\net5.0\ref\DAL.dll
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\bin\Debug\net5.0\DAL.pdb
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\DAL.dll
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\ref\DAL.dll
+c:\20487D\AllFiles\Mod02\LabFiles\Lab1\Starter\DAL\obj\Debug\net5.0\DAL.pdb
